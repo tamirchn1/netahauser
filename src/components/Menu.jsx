@@ -3,7 +3,7 @@ function Menu() {
   return (
     <div class="container"> 
         <div className="menu">
-          <a href="#about" className="nav-link col-lg-4">אודות</a>
+          <a href="#about" className="nav-link col-lg-4">על עצמי</a>
           <a href="#privateworkshop" className="nav-link col-lg-4">התמסרות מלאה - סדנה פרטית</a>
           <a href="#privatelesson" className="nav-link col-lg-4">להתמסר לרגע - שיעור פרטי</a>
           <a href="#workshop" className="nav-link col-lg-4">סדנה קבוצתית</a>
