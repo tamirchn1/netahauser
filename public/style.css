@@ -1,0 +1,52 @@
+body {
+  background-color: #dfd3c3;
+}
+
+@font-face {
+  font-family: "amatica";
+  src: url(fonts/AmaticaSC-Bold.ttf) format("bold"),
+    url(fonts/AmaticaSC-Regular.ttf) format("regular");
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.header img {
+  height: 250px;
+  border-radius: 50%;
+  background-color: #ae431e;
+}
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.nav-link {
+  width: 75%;
+  font-weight: 600;
+  border: 1px solid black;
+  margin: 1% auto;
+  cursor: pointer;
+  color: #a3423c;
+  text-align: center;
+}
+.nav-link:hover {
+  background-color: #ae431e;
+  color: #dfd3c3;
+}
+
+.logo img {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.about-txt {
+  line-height: 1.8;
+  padding: 0 15%;
+}
