@@ -4,10 +4,13 @@ import { FaWhatsapp, FaInstagram, FaGoogle } from "react-icons/fa";
 function Copyright() {
   return (
     <footer className="">
+      <div className="links">  
+       <a className="back" href="https://api.whatsapp.com/send?phone=+972545428382-נטע האוזר" > &laquo; צרי קשר להרשמה</a>
        <a className="back" href="/" > &laquo; חזרה לתפריט הראשי </a>
+     </div>
       <div className="">
         <a
-          target="_blank"
+           target="_blank"
           rel="noreferrer"
           href="https://api.whatsapp.com/send?phone=+972545428382-נטע האוזר"
           role="button"
