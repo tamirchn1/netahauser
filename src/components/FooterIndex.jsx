@@ -16,7 +16,7 @@ function FooterIndex() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="mailto:nettahauser09@gmail.com"
+          href="https://www.instagram.com/nettahauser/"
           role="button"
         >
           <FaInstagram className="logo" />
@@ -24,7 +24,8 @@ function FooterIndex() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.instagram.com/nettahauser/"
+         
+           href="mailto:nettahauser09@gmail.com"
           role="button"
         >
           <FaGoogle className="logo" />
