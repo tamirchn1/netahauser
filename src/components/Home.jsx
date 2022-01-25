@@ -1,6 +1,5 @@
 import Header from "./Header"
 import Menu from "./Menu"
-import Copyright from "./Copyright"
 
 
 function Home() {
@@ -8,7 +7,6 @@ function Home() {
    <div className= "mt-1">
        <Header/>
        <Menu/>
-       <Copyright/>
       </div>);
 }
 export default Home;
