@@ -1,4 +1,4 @@
-
+import Footer from "./Footer";
 
 function Workshop()  {
    return(
@@ -11,7 +11,7 @@ function Workshop()  {
 	קבוצת וואטסאפ לשיתופים, התייעצות ושאלות במהלך הסדנה
 	טטרה במבוק איכותי בשווי 99 ש"ח
 	מסמך pdf להדפסה עם סיכום לאחר כל מפגש
-</p>            <a className="back" href="/" > &laquo; חזרה לתפריט הראשי </a>
+</p>           <Footer /> 
 
 
 

@@ -5,7 +5,6 @@ import PrivateWorkshop from "./components/Privateworkshop";
 import PrivateLesson from "./components/Privatelesson";
 import Workshop from "./components/Workshop";
 import Tetra from "./components/Tetra";
-import Copyright from "./components/Copyright";
 
 function App() {
   return (
@@ -18,7 +17,6 @@ function App() {
           <Route exact path="/Workshop" component={Workshop} />
           <Route exact path="/Tetra" component={Tetra} />
         </Switch>
-        <Copyright />
       </div>
     </Router>
   );
