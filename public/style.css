@@ -1,11 +1,11 @@
-body {
-  background-color: #dfd3c3;
-}
-
 @font-face {
   font-family: "amatica";
   src: url(fonts/AmaticaSC-Bold.ttf) format("bold"),
     url(fonts/AmaticaSC-Regular.ttf) format("regular");
+}
+
+body {
+  background-color: #dfd3c3;
 }
 
 .header {
@@ -31,11 +31,11 @@ body {
   border: 1px solid black;
   margin: 1% auto;
   cursor: pointer;
-  color: #a3423c;
+  color: #8c5340;
   text-align: center;
 }
 .nav-link:hover {
-  background-color: #ae431e;
+  background-color: #8c5340;
   color: #dfd3c3;
 }
 
