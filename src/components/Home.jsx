@@ -4,7 +4,7 @@ import Menu from "./Menu"
 
 function Home() {
    return(
-   <div className= "mt-5">
+   <div>
        <Header/>
        <Menu/>
       </div>);
