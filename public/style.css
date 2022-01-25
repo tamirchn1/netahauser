@@ -11,16 +11,14 @@ body {
 .header {
   display: flex;
   flex-direction: column;
-  width: 200px;
   text-align: center;
   margin: 0 auto;
 }
-
 .header img {
-  height: 250px;
-  border-radius: 50%;
-  background-color: #ae431e;
+  width: 63vmin;
+  margin: 0 auto;
 }
+
 .menu {
   display: flex;
   flex-direction: column;
@@ -39,11 +37,6 @@ body {
 .nav-link:hover {
   background-color: #ae431e;
   color: #dfd3c3;
-}
-
-.logo img {
-  max-width: 250px;
-  max-height: 250px;
 }
 
 .about-txt {
