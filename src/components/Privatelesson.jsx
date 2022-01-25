@@ -8,9 +8,7 @@ function PrivateLesson() {
 תדעי איך לזהות מה עובר עליו ולתת לו את המענה הכי טוב שאת יכולה.
 הכל נעשה ברכות, בנועם, חשוב לי שנהיה קשובות לתינוק ונתייחס אליו כמו בנאדם לכל דבר
 </p>
-   <a className="back" href="/" >חזרה לתפריט הראשי</a>
-
-
+   <a className="back" href="/" > &laquo; חזרה לתפריט הראשי </a>
     </div>);
 }
 export default PrivateLesson;
