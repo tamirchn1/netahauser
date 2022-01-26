@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Amatica";
-  src: url("./fonts/AmaticaSC-Bold.ttf");
+  src: url("./fonts/AmaticaSC-regular.ttf");
 }
 
 body {
@@ -29,7 +29,9 @@ a:hover {
   margin-top: 3%;
   text-align: right;
 }
-
+ li{
+   line-height: 1.2;
+ }
 footer {
   position: block;
   width: 100%;
@@ -48,11 +50,13 @@ footer {
 .back {
   text-decoration: none;
   display: inline-block;
-  border: 1px solid black;
   padding: 3%;
   color: black;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   margin-bottom: 8%;
+  border: 5px double rgba(15, 59, 88, 0.486);
+  border-radius: 50px;
+  width: 60%;
 }
 .back:hover {
   background-color: #8c5340;
@@ -82,7 +86,8 @@ footer {
   font-weight: 600;
   border: 1px solid black;
   margin: 1% auto;
-
+  border: 5px double rgba(15, 59, 88, 0.486);
+  border-radius: 40px 40px 40px 40px;
   cursor: pointer;
   color: #8c5340;
   text-align: center;
@@ -99,10 +104,11 @@ ul {
   direction: rtl;
 }
 .comp-text {
-  font-size: 1.4rem;
-  padding: 5% 10%;
+  font-size: 1rem;
   line-height: 1.1;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  width: 90%;
 }
 
 .logo {
@@ -140,7 +146,7 @@ ul {
   }
   .back {
     padding: 1.3%;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
   }
   .links a {
     width: 45%;
@@ -161,9 +167,9 @@ ul {
     margin-top: 3%;
   }
   .comp-text {
-    font-size: 2rem;
+    font-size: 1.3rem;
     padding: 2% 10%;
-    line-height: 1.1;
+    line-height: 1.5;
   }
   .copyright {
     font-size: 0.8rem;
@@ -207,10 +213,11 @@ ul {
     margin-top: 3%;
   }
   .comp-text {
-    font-size: 3rem;
-    padding: 4% 10%;
-    line-height: 1.1;
+    font-size: 1.2rem;
+    padding: 1% 4%;
+    line-height: 1.9;
   }
+  
   .copyright {
     font-size: 0.8rem;
   }
@@ -222,11 +229,7 @@ ul {
     font-size: 1.6rem;
   }
 
-  .comp-text {
-    font-size: 2rem;
-    padding: 2% 10%;
-    line-height: 1;
-  }
+
   .links a {
     width: 20%;
   }
@@ -238,20 +241,23 @@ ul {
     margin: 0 auto;
   }
   .nav-link {
+    width: 48%;
     font-size: 1.5vw;
+    box-shadow: 0px 20px 30px -20px rgb(0 0 0 / 40%);
   }
   h1 {
     font-size: 4rem;
   }
   .comp-text {
-    font-size: 2rem;
-    padding: 2% 10%;
-    line-height: 1;
+    width: 70%;
+    font-size: 1.3rem;
+    padding: 1% 10%;
+    line-height: 0.95;
   }
   .back {
-    margin-bottom: 1%;
-    padding: 1%;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
+    box-shadow: 0px 20px 30px -20px rgb(0 0 0 / 40%);
+    width: 20%;
   }
   .logo {
     font-size: 3rem;
@@ -259,7 +265,4 @@ ul {
   .copyright {
     font-size: 0.8rem;
   }
-  .links a {
-    width: 10%;
-  }
-}
+  
