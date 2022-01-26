@@ -11,7 +11,7 @@ function Tetra() {
         היצירתי בלה בלה <img
           className="page-img my-4"
           src={require("../images/studio.jpg")}
-          alt="baby"
+          alt="tetra"
         />
       </p>{" "}
       <Footer />

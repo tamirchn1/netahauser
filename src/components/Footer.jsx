@@ -48,7 +48,7 @@ function Copyright() {
           Copyright &copy; - This website was built by -
           <a className="tamir" href="mailto:Tamirchn1@gmail.com">
             Tamir Chen
-          </a>
+          </a><br /> All rights reserved to Netta Hauser
           <script>document.write(new Date().getFullYear());</script>
         </p>
       </div>

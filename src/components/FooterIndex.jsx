@@ -32,8 +32,8 @@ function FooterIndex() {
         <p className="copyright">
           Copyright &copy; This website was built by -
           <a className="tamir" href="mailto:Tamirchn1@gmail.com">
-            Tamir Chen
-          </a>
+            Tamir Chen <br /> 
+          </a>All rights reserved to Netta Hauser
           <script>document.write(new Date().getFullYear());</script>
         </p>
       </div>

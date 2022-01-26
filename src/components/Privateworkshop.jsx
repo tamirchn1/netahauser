@@ -13,7 +13,7 @@ function PrivateWorkship() {
         <img
           className="page-img my-4"
           src={require("../images/privateworkshopimg.png")}
-          alt="baby"
+          alt="private workshop"
         />
         <br /> תלמדי גישה כוללת על היחס והטיפול בתינוק ובעצמך, שתלך איתך קדימה
         עם האימהות, הקשבה לאינטואיציה שלך, ביטחון בעצמך, ביטחון לחפש את תפיסת
