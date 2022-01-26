@@ -5,8 +5,7 @@ function Header() {
   return (
     <div className="header ">
       <img className="logo" src={logo} alt="Logo" />
-   
-    </div>
+      </div>
   );
 }
 export default Header;

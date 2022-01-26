@@ -24,18 +24,17 @@ function FooterIndex() {
         <a
           target="_blank"
           rel="noreferrer"
-         
-           href="mailto:nettahauser09@gmail.com"
+          href="mailto:nettahauser09@gmail.com"
           role="button"
         >
           <FaGoogle className="logo" />
-         </a>
+        </a>
         <p className="copyright">
-          Copyright &copy; - This website was built by -
+          Copyright &copy; This website was built by -
           <a className="tamir" href="mailto:Tamirchn1@gmail.com">
             Tamir Chen
           </a>
-          -<script>document.write(new Date().getFullYear());</script>
+          <script>document.write(new Date().getFullYear());</script>
         </p>
       </div>
     </footer>

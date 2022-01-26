@@ -11,6 +11,7 @@ body {
 }
 
 h1 {
+  margin-bottom: 14%;
   font-family: "Amatica";
 }
 
@@ -22,12 +23,11 @@ a:hover {
 }
 .links a {
   display: block;
-
   margin: 2% auto;
 }
 
 li {
-  line-height: 1.2;
+  line-height: 1;
 }
 footer {
   position: block;
@@ -54,6 +54,7 @@ footer {
   border: 5px double rgba(15, 59, 88, 0.486);
   border-radius: 50px;
   width: 60%;
+  font-weight: 900;
 }
 .back:hover {
   background-color: #8c5340;
@@ -69,6 +70,12 @@ footer {
 .header img {
   width: 100%;
   margin: 0 auto;
+}
+.page-img {
+  margin: 0 auto;
+  width: 90%;
+  display: block;
+  border-radius: 60px 60px 60px 60px;
 }
 
 .menu {
@@ -101,12 +108,12 @@ ul {
   direction: rtl;
 }
 .comp-text {
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.1;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
   width: 90%;
-  margin-top: 3%;
+  margin: 3% 4% 0 0;
   text-align: right;
 }
 
@@ -133,7 +140,7 @@ ul {
     margin-top: 2%;
   }
   .comp-text {
-    font-size: 1.73rem;
+    font-size: 1rem;
     padding: 2% 10%;
     line-height: 1.1;
   }
@@ -150,6 +157,9 @@ ul {
   .links a {
     width: 45%;
   }
+  .page-img {
+    width: 75%;
+  }
 }
 @media screen and (min-width: 768px) {
   .header img {
@@ -163,7 +173,7 @@ ul {
   }
   h1 {
     font-size: 3rem;
-    margin-top: 3%;
+    margin: 2% 0 0 0;
   }
   .comp-text {
     font-size: 1.3rem;
@@ -182,6 +192,10 @@ ul {
   }
   .links a {
     width: 35%;
+  }
+  .page-img {
+    width: 70%;
+    padding-top: 0;
   }
 }
 @media screen and (min-width: 825px) {
@@ -231,6 +245,10 @@ ul {
   .links a {
     width: 20%;
   }
+  .page-img {
+    width: 50%;
+    padding-top: 0;
+  }
 }
 
 @media screen and (min-width: 1310px) {
@@ -247,13 +265,12 @@ ul {
     font-size: 4rem;
   }
   .comp-text {
-    width: 70%;
-    font-size: 1.3rem;
+    width: 90%;
     padding: 1% 10%;
-    line-height: 0.95;
+    line-height: 1.1;
   }
   .back {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     box-shadow: 0px 20px 30px -20px rgb(0 0 0 / 40%);
     width: 20%;
   }
@@ -262,5 +279,9 @@ ul {
   }
   .copyright {
     font-size: 0.8rem;
+  }
+  .page-img {
+    width: 40%;
+    padding-top: 0;
   }
 }
