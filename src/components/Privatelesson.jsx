@@ -12,7 +12,7 @@ function PrivateLesson() {
         ותרגול עם דגש על תהליכים מותאמים אישית לתינוק.ת שלך, לפי הקצב שמתאים
         לה.לו. <br /> <br />{" "}
         <img
-          className="page-img py-4"
+          className="page-img my-4"
           src={require("../images/privatelessonimg.png")}
           alt="baby"
         />

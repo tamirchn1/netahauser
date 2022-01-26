@@ -9,7 +9,7 @@ function Workshop() {
         הקבוצה מתחילה ב 13.2.22 מספר המקומות מוגבל. <br /> <br />
         מה מחכה לך בסדנה: <br /> <br />
         <img
-          className="page-img py-3"
+          className="page-img my-3"
           src={require("../images/workshopimg.png")}
           alt="baby"
         />
