@@ -253,11 +253,12 @@ ul {
 
 @media screen and (min-width: 1310px) {
   .header img {
+    width: 23%;
     margin: 0 auto;
   }
   .nav-link {
     width: 48%;
-    font-size: 2vw;
+    font-size: 1.5vw;
   }
   h1 {
     font-size: 4rem;
@@ -273,7 +274,7 @@ ul {
     width: 20%;
   }
   .logo {
-    font-size: 2.4rem;
+    font-size: 2.1rem;
   }
   .copyright {
     font-size: 0.6rem;
