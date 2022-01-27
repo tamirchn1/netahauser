@@ -6,7 +6,7 @@ function Copyright() {
     <footer className="">
       <div className="links">
         <a
-          className="back"
+          className=""
           target="_blank"
           rel="noreferrer"
           href="https://api.whatsapp.com/send?phone=+972545428382-נטע האוזר"
@@ -14,7 +14,7 @@ function Copyright() {
           {" "}
           צרי קשר להרשמה
         </a>
-        <a className="back" href="/">
+        <a className="" href="/">
           {" "}
           &laquo; חזרה לתפריט הראשי{" "}
         </a>
