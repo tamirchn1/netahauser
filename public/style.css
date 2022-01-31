@@ -179,11 +179,12 @@ footer {
     font-size: 4rem;
   }
   .header img {
-    width: 22%;
+    width: 14%;
   }
   .nav-link {
-    font-size: 1.5vw;
-    padding: 0.6% 0;
+    width: 31%;
+    font-size: 1.3vw;
+    padding: 0.4% 0;
     margin-top: 0.3%;
   }
   .comp-text {
