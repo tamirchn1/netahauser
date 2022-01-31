@@ -2,11 +2,11 @@ function Menu() {
   return (
     <div className="">
       <div className="menu">
-        <a href="/privateworkshop" className="nav-link ">
-          התמסרות מלאה - סדנה פרטית
-        </a>
         <a href="/privatelesson" className="nav-link">
           להתמסר לרגע - שיעור פרטי
+        </a>
+        <a href="/privateworkshop" className="nav-link ">
+          התמסרות מלאה - סדנה פרטית
         </a>
         <a href="/workshop" className="nav-link">
           סדנה קבוצתית
