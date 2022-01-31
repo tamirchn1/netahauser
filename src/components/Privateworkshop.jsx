@@ -2,7 +2,7 @@ import Footer from "./Footer";
 
 function PrivateWorkship() {
   return (
-    <div id="privateworkshop" className="text-center lh-2">
+    <div id="privateworkshop" className="text-center lh-1">
       <h1>התמסרות מלאה - סדנה פרטית</h1>
       <p className="comp-text">
         להתמסר לרגע: מתאים לגילאי לידה ועד חצי שנה. שיעור פרטי באורך 60 דקות,
@@ -19,12 +19,13 @@ function PrivateWorkship() {
         <br /> <br />
         הכל נעשה ברכות, בנועם, חשוב לי שנהיה קשובות לתינוק ונתייחס אליו כמו
         בנאדם לכל דבר.
-      </p>{" "}
-       <img
+         <img
           className="page-img my-4"
           src={require("../images/privateworkshopimg.png")}
           alt="private workshop"
         />
+      </p>{" "}
+      
       <Footer />
     </div>
   );
