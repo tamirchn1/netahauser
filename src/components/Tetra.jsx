@@ -9,11 +9,13 @@ function Tetra() {
         <br />
         <br /> אולי פסקה אישית על ההנאה שביצירה הרי אני אמנית בכלל לא ? על המקום
         היצירתי בלה בלה 
+        
         <img
           className="page-img my-4"
           src={require("../images/shibori.jpg")}
           alt="tetra"
         />
+
         <img
           className="page-img my-4"
           src={require("../images/shibori2.jpg")}

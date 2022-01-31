@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../images/neta-logo.jpg";
+import logo from "../images/pea-logo.png";
 
 function Header() {
   return (

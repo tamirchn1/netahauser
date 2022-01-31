@@ -41,7 +41,7 @@ footer {
   box-sizing: border-box;
 }
 .header img {
-  width: 88%;
+  width: 71%;
   margin: 0 auto;
 }
 
@@ -114,7 +114,7 @@ footer {
 
 @media screen and (min-width: 480px) {
   .header img {
-    width: 65%;
+    width: 40%;
     margin: 0 auto;
   }
   .nav-link {
@@ -137,7 +137,7 @@ footer {
 }
 @media screen and (min-width: 768px) {
   .header img {
-    width: 40%;
+    width: 22%;
     margin: 0 auto;
   }
   .nav-link {
@@ -159,7 +159,7 @@ footer {
 
 @media screen and (min-width: 1024px) {
   .header img {
-    width: 32%;
+    width: 19%;
   }
   .nav-link {
     width: 41%;
@@ -167,7 +167,7 @@ footer {
   }
 
   .links a {
-    width: 29%;
+    width: 27%;
     padding: 1%;
     font-size: 1.5rem;
     letter-spacing: 0.1rem;
@@ -179,7 +179,7 @@ footer {
     font-size: 4rem;
   }
   .header img {
-    width: 27%;
+    width: 22%;
   }
   .nav-link {
     font-size: 1.5vw;
