@@ -10,11 +10,7 @@ function PrivateWorkship() {
         הערכה התפתחותית ותרגול: הערכת ההתפתחות הסנסו-מוטורית, הערכת הסביבה
         ההתפתחותית, ותרגול עם דגש על תהליכים מותאמים אישית לתינוק.ת שלך, לפי
         הקצב שמתאים לה.לו. <br />{" "}
-        <img
-          className="page-img my-4"
-          src={require("../images/privateworkshopimg.png")}
-          alt="private workshop"
-        />
+       
         <br /> תלמדי גישה כוללת על היחס והטיפול בתינוק ובעצמך, שתלך איתך קדימה
         עם האימהות, הקשבה לאינטואיציה שלך, ביטחון בעצמך, ביטחון לחפש את תפיסת
         העולם האימהית האישית שלך שתואמת לערכים שלך. <br />
@@ -24,6 +20,11 @@ function PrivateWorkship() {
         הכל נעשה ברכות, בנועם, חשוב לי שנהיה קשובות לתינוק ונתייחס אליו כמו
         בנאדם לכל דבר.
       </p>{" "}
+       <img
+          className="page-img my-4"
+          src={require("../images/privateworkshopimg.png")}
+          alt="private workshop"
+        />
       <Footer />
     </div>
   );
