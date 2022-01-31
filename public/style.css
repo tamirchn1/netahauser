@@ -144,7 +144,7 @@ footer {
 }
 @media screen and (min-width: 768px) {
   .header img {
-    width: 22%;
+    width: 34%;
     margin: 0 auto;
   }
   .nav-link {
@@ -166,7 +166,7 @@ footer {
 
 @media screen and (min-width: 1024px) {
   .header img {
-    width: 19%;
+    width: 23%;
   }
   .nav-link {
     width: 41%;
@@ -187,7 +187,7 @@ footer {
     margin-top: 2%;
   }
   .header img {
-    width: 14%;
+    width: 17%;
   }
   .nav-link {
     width: 31%;
