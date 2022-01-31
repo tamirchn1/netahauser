@@ -8,9 +8,15 @@ function Tetra() {
         <br /> 70% במבוק, 30% כותנה אורגנית, צביעה עבודת יד בטכניקת שיבורי.{" "}
         <br />
         <br /> אולי פסקה אישית על ההנאה שביצירה הרי אני אמנית בכלל לא ? על המקום
-        היצירתי בלה בלה <img
+        היצירתי בלה בלה 
+        <img
           className="page-img my-4"
-          src={require("../images/studio.jpg")}
+          src={require("../images/shibori.jpg")}
+          alt="tetra"
+        />
+        <img
+          className="page-img my-4"
+          src={require("../images/shibori2.jpg")}
           alt="tetra"
         />
       </p>{" "}
