@@ -1,6 +1,10 @@
 @font-face {
   font-family: "Amatica";
-  src: url("./fonts/AmaticaSC-regular.ttf");
+  src: url("./fonts/AmaticaSC-Regular.ttf");
+}
+@font-face {
+  font-family: "Alef";
+  src: url("./fonts/alef-Regular.ttf");
 }
 
 body {
@@ -70,7 +74,7 @@ footer {
   color: #dfd3c3;
 }
 .comp-text {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Alef";
   width: 78%;
   margin: 10% 10% 0 0;
   text-align: right;
