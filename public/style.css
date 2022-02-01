@@ -79,6 +79,7 @@ footer {
 .page-img {
   margin: 0;
   display: block;
+  min-width: 110%;
 }
 
 .logo {
