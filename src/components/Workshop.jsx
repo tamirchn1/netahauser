@@ -17,10 +17,10 @@ function Workshop() {
           <li className="py-1 display-8">
             מפגשים כל אחד של שעה וחצי בסטודיו "מאלה" בת"א שכונת נגה
           </li>
-          <li className="py-1 display-8">קבוצת וואטספ לשיתופים</li>
-          <li className="py-1 display-8">התייעצות ושאלות במהלך הסדנה</li>
-          <li className="py-1 display-8">טטרה במבוק איכותי בשווי 99 ש"ח</li>
-          <li className="py-1 display-8">מסמך מסכם להדפסה בכל שיעור </li>
+          <li className="py-1 display-8">קבוצת וואטספ לשיתופים, התייעצות ושאלות במהלך הסדנה</li>
+          <li className="py-1 display-8">קפה ונשנושים מעשה ידיי בכל מפגש</li>
+          <li className="py-1 display-8">שמיכת טטרה איכותית מעשה ידיי בשווי 99 ש"ח</li>
+          <li className="py-1 display-8">מסמך מסכם להדפסהלאחר כל מפגש </li>
         </ul>
       </p>
       <Footer />
