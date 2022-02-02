@@ -104,10 +104,12 @@ footer {
   font-weight: 900;
   margin: 1% auto;
 }
+
 .links a:hover {
   background-color: #8c5340;
   color: #dfd3c3;
 }
+
 .copyright {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;

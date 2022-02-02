@@ -15,7 +15,7 @@ function Menu() {
           טטרה עבודת יד
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=+972545428382-נטע האוזר"
+          href="https://api.whatsapp.com/send?phone=+972545428382 - נטע האוזר"
           className="nav-link col-lg-4"
           target="_blank"
           rel="noreferrer"
