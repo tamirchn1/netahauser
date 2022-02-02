@@ -77,13 +77,13 @@ footer {
   font-family: "Alef";
   width: 78%;
   margin: 10% 10% 0 0;
-  text-align: right;
+  text-align: justify;
   font-size: 1.1rem;
 }
 .page-img {
   margin: 0;
   display: block;
-  min-width: 110%;
+  min-width: 100%;
 }
 
 .logo {
